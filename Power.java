@@ -15,6 +15,7 @@ public class Power {
 		System.out.println(t);
 		System.out.println(new Train());
 		int i = 0;
+		float f = 9.2f;
 }
 }
 	class Train implements Comparable<Train>{
